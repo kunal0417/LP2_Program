@@ -1,9 +1,15 @@
-#include<iostream>
+#include <iostream>
+
 using namespace std;
 
 int main()
 {
-//int n;
+    cout<<"Hello World";
+
+    return 0;
+}
+ 
+  /*int n;
 cout<<"Enter the size of array =>";
 //cin>>n;
 
@@ -39,5 +45,7 @@ cout<<target<<" is not present in the array"<<endl;
 else
 cout<<target<<" is present in the array at position"<<pos<<endl;
 
-return 0;*/
+return 0;
 }
+
+*/
