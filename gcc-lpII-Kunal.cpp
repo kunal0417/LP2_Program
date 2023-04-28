@@ -1,6 +1,4 @@
-#include
-<iostream>
-
+#include<iostream>
 using namespace std;
 
 int main()
@@ -39,8 +37,7 @@ start = mid + 1;
 if(pos==-1)
 cout<<target<<" is not present in the array"<<endl;
 else
-cout<<target<<" is present in the array at position
-"<<pos<<endl;
+cout<<target<<" is present in the array at position"<<pos<<endl;
 
 return 0;
 }
